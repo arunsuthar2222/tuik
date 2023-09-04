@@ -1,3 +1,3 @@
 Tuik
 simple tailwind css site
- link : www.tuik.ml
+ link : https://candid-fenglisu-19897c.netlify.app/
